@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Khizar/7th%20Semester/Big%20Data/Ayesha%20Assignment%204/mlruns/137109575601355727/0086dd47f168418b8b5682c44e0e9290/artifacts
+end_time: 1748712965043
+entry_point_name: ''
+experiment_id: '137109575601355727'
+lifecycle_stage: active
+run_id: 0086dd47f168418b8b5682c44e0e9290
+run_name: clean-squirrel-989
+run_uuid: 0086dd47f168418b8b5682c44e0e9290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748712958423
+status: 3
+tags: []
+user_id: HP
